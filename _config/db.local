@@ -1,4 +1,4 @@
-$TTL    120
+$TTL    0
 @       IN      SOA     DOMAIN_NAME. root.DOMAIN_NAME. (
                               2         ; Serial
                          604800         ; Refresh
