@@ -7,7 +7,7 @@ options {
         };
 
         allow-query { any; };
-#        allow-recursion { 127/8; };
+        allow-recursion { 127/8; };
 
         dnssec-validation auto;
 
